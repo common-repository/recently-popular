@@ -1,0 +1,247 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recently Popular\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/recently-popular\n"
+"POT-Creation-Date: 2010-08-03 18:34+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Caio Costa <caio@caiocosta.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: portuguese\n"
+"X-Poedit-Country: Brazil\n"
+
+#: include.php:35
+#: recently_popular.php:57
+#: recently_popular_widget.php:28
+msgid "Recently Popular"
+msgstr "Posts Populares"
+
+#: recently_popular.php:57
+msgid "Recently Popular Settings"
+msgstr "Posts Populares - Configurações"
+
+#: recently_popular.php:87
+msgid "Counts deleted."
+msgstr "Contagens apagadas."
+
+#: recently_popular.php:92
+msgid "Options saved."
+msgstr "Opções salvas."
+
+#: recently_popular.php:98
+msgid "You have no counts in your database."
+msgstr "Não há contagem de visitas no banco de dados."
+
+#: recently_popular.php:101
+#, php-format
+msgid "Your oldest count is from %s."
+msgstr "O registro mais antigo é de %s."
+
+#: recently_popular.php:113
+msgid "Recently Popular Plugin Options"
+msgstr "Opções do plugin Posts Populares"
+
+#: recently_popular.php:120
+#: recently_popular.php:134
+msgid "Delete Counts"
+msgstr "Apagar Registros"
+
+#: recently_popular.php:121
+msgid "*** WARNING *** This cannot be undone!"
+msgstr "*** AVISO *** Essa operação não pode ser desfeita!"
+
+#: recently_popular.php:123
+msgid "Delete counts older than"
+msgstr "Apagar registros mais antigos que"
+
+#: recently_popular.php:125
+msgid "Hours"
+msgstr "Horas"
+
+#: recently_popular.php:126
+msgid "Days"
+msgstr "Dias"
+
+#: recently_popular.php:127
+msgid "Weeks"
+msgstr "Semanas"
+
+#: recently_popular.php:128
+msgid "Months"
+msgstr "Meses"
+
+#: recently_popular.php:129
+msgid "Years"
+msgstr "Anos"
+
+#: recently_popular.php:130
+msgid "--ALL--"
+msgstr "--TODOS--"
+
+#: recently_popular.php:132
+msgid "Check here to confirm you wish to delete your post counts."
+msgstr "Selecione para confirmar que deseja apagar os registros."
+
+#: recently_popular_widget.php:161
+msgid "Title:"
+msgstr "Título:"
+
+#: recently_popular_widget.php:164
+msgid "Count views no older than:"
+msgstr "Não contar visitas mais antigas que:"
+
+#: recently_popular_widget.php:167
+msgid "Hour(s)"
+msgstr "Hora(s)"
+
+#: recently_popular_widget.php:168
+msgid "Day(s)"
+msgstr "Dia(s)"
+
+#: recently_popular_widget.php:169
+msgid "Week(s)"
+msgstr "Semana(s)"
+
+#: recently_popular_widget.php:170
+msgid "Month(s)"
+msgstr "Mês(eses)"
+
+#: recently_popular_widget.php:171
+msgid "Year(s)"
+msgstr "Ano(s)"
+
+#: recently_popular_widget.php:175
+msgid "Use relative time?"
+msgstr "Usar Tempo Relativo?"
+
+#: recently_popular_widget.php:176
+msgid "Relative time changes the way \"Count views no older than\" works. For example, if you choose 1 month, normally this would cause all views for the past 30 days to be counted. With the relative time option it will count all view in the current month."
+msgstr "O Tempo Relativo muda a forma de funcionamento da opção \"Não contar visitas mais antigas que\". Por exemplo: se você escolher 1 mês normalmente o plugin contaria as visualizações dos últimos 30 dias. Com o \"Tempo Relativo\" ativado, a contagem será feita desde o início deste mês."
+
+#: recently_popular_widget.php:180
+msgid "Limit to no more than:"
+msgstr "Não mostrar mais que:"
+
+#: recently_popular_widget.php:181
+msgid "posts"
+msgstr "posts"
+
+#: recently_popular_widget.php:183
+msgid "Limit titles to:"
+msgstr "Limitar títulos a:"
+
+#: recently_popular_widget.php:184
+msgid "characters (enter 0 for no limit)"
+msgstr "caracteres (digite 0 para não limitar)"
+
+#: recently_popular_widget.php:186
+msgid "Count views by:"
+msgstr "Contar as visitas de:"
+
+#: recently_popular_widget.php:188
+msgid "Anonymous &amp; Registered Users"
+msgstr "Visitantes e Usuários Registrados"
+
+#: recently_popular_widget.php:189
+msgid "Anonymous Users Only"
+msgstr "Apenas visitantes"
+
+#: recently_popular_widget.php:190
+msgid "Registered Users Only"
+msgstr "Apenas usuários registrados"
+
+#: recently_popular_widget.php:193
+msgid "Count views of:"
+msgstr "Contar visualizações em:"
+
+#: recently_popular_widget.php:195
+msgid "Pages &amp; Posts"
+msgstr "Páginas e Posts"
+
+#: recently_popular_widget.php:196
+msgid "Pages Only"
+msgstr "Somente Páginas"
+
+#: recently_popular_widget.php:197
+msgid "Posts Only"
+msgstr "Somente Posts"
+
+#: recently_popular_widget.php:200
+msgid "Show/hide formatting options"
+msgstr "Mostrar/esconder opções de formatação"
+
+#: recently_popular_widget.php:202
+msgid "Format each result as:"
+msgstr "Formatar cada resultado desta forma:"
+
+#: recently_popular_widget.php:204
+msgid "or choose a format below by clicking it:"
+msgstr "ou clique para escolher um dos formatos abaixo:"
+
+#: recently_popular_widget.php:205
+#: recently_popular_widget.php:207
+msgid "Post Name"
+msgstr "Nome do Post"
+
+#: recently_popular_widget.php:206
+msgid "Post Name (Hits)"
+msgstr "Nome do Post (Visitas)"
+
+#: recently_popular_widget.php:207
+msgid "by"
+msgstr "por"
+
+#: recently_popular_widget.php:207
+msgid "by Author Name"
+msgstr "por Nome do Autor"
+
+#: recently_popular_widget.php:208
+msgid "help"
+msgstr "ajuda"
+
+#: recently_popular_widget.php:211
+msgid "Available tags:"
+msgstr "Tags disponíveis:"
+
+#: recently_popular_widget.php:212
+msgid "the post's permalink"
+msgstr "permalink do post"
+
+#: recently_popular_widget.php:213
+msgid "the post's title"
+msgstr "título do post"
+
+#: recently_popular_widget.php:214
+msgid "the post's publish date"
+msgstr "data de publicação do post"
+
+#: recently_popular_widget.php:215
+msgid "the number of qualifying views"
+msgstr "número de visualizações"
+
+#: recently_popular_widget.php:216
+msgid "the post's author"
+msgstr "autor do post"
+
+#: recently_popular_widget.php:217
+msgid "URL for the thumbnail"
+msgstr "URL da miniatura"
+
+#: recently_popular_widget.php:222
+msgid "Show/hide category options"
+msgstr "Mostrar/esconder opções de categorias"
+
+#: recently_popular_widget.php:224
+msgid "Note: Enabling category filtering will eliminate all posts with no category. If pages are selected in 'Count views of' above then all pages will display since they can't have a category."
+msgstr "Nota: Ativar o Filtro de Categorias eliminará todos os posts sem categoria. Apesar disso, se a opção \"Contar visualizações em\" estiver marcada em Páginas, todas as páginas serão exibidas."
+
+#: recently_popular_widget.php:227
+msgid "Enable category filtering"
+msgstr "Ativar Filtro de Categorias"
+
+#: recently_popular_widget.php:230
+msgid "Choose only posts in these categories:"
+msgstr "Mostrar somente os posts destas categorias:"
+
